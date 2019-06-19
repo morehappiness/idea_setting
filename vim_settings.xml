@@ -1,0 +1,21 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="B:/tc/contest/tc1/gng-toolkit/ncs-service/ncs-model/pom.xml" timestamp="1560937804916">
+        <mark key="'" line="20" column="19" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="20" column="19" filename="B:/tc/contest/tc1/gng-toolkit/ncs-service/ncs-model/pom.xml" />
+    </jumps>
+    <registers />
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history />
+    <shortcut-conflicts />
+  </component>
+</application>
