@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '...\ncs-model\src\main\java\com\apc\its\services\ncs\model\document [ncs-service-model]'" />
-    <option name="defaultScopeName" value="Directory '...\ncs-model\src\main\java\com\apc\its\services\ncs\model\document [ncs-service-model]'" />
+    <option name="customScope" value="Directory '...\ncs-server\src [ncs-service-server]'" />
+    <option name="defaultScopeName" value="Directory '...\ncs-server\src [ncs-service-server]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '...\ncs-model\src\main\java\com\apc\its\services\ncs\model\document [ncs-service-model]'" />
+    <option name="SEARCH_SCOPE" value="Directory '...\ncs-server\src [ncs-service-server]'" />
   </component>
 </application>
